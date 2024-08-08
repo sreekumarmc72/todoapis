@@ -31,3 +31,4 @@ C:\Code\experimentProject\todoapis\obj\Debug\net8.0\refint\todoapis.dll
 C:\Code\experimentProject\todoapis\obj\Debug\net8.0\todoapis.pdb
 C:\Code\experimentProject\todoapis\obj\Debug\net8.0\todoapis.genruntimeconfig.cache
 C:\Code\experimentProject\todoapis\obj\Debug\net8.0\ref\todoapis.dll
+C:\Code\experimentProject\todoapis\obj\Debug\net8.0\todoapis.sourcelink.json
